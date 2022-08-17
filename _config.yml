@@ -72,7 +72,7 @@ content:
       - layout: top-middle
         title: Implementation of Bamboo, Jenkins
         description: | # this will include new lines to allow paragraphs
-          I took the responsibility to implementing a continuous integration and deployment engine for one of my major clients to reduce the amount of time, errors and increase the repeatability of deployments therefore reducing risk. I first started doing this in my own time as I saw a great need for it and work projects were taking priority. My first choice was Atlassian Bamboo which worked well, and I had used it before, and the interface layout was very intuitive. Except for the fact that in Q1 2021 no more releases would be available. I then decided to move the CI/CD of Jenkins to build IIB/ACE Applications where it soon grew to include MQ mqsc scripts, DB tables, and now other Java based application owners are using the same platform.
+          I took responsibility of implementing a continuous integration and deployment engine for one of my major clients to reduce the amount of time, errors and increase the repeatability of deployments therefore reducing risk. I first started doing this in my own time as I saw a great need for it and work projects were taking priority. My first choice was Atlassian Bamboo which worked well, and I had used it before, and the interface layout was very intuitive. Except for the fact that in Q1 2021 no more releases would be available. I then decided to move the CI/CD of Jenkins to build IIB/ACE Applications where it soon grew to include MQ mqsc scripts, DB tables, and now other Java based application owners are using the same platform.
           
 
       - layout: top-middle
@@ -100,7 +100,7 @@ content:
            Other Clients Included:
            <ul>
              <li>Woolworths</li>
-               <ul>
+             <ul>
                <li>Involved in upgrade projects and code rewrite and optimisation</li>
                <li>Wrote the new standards document where naming standards were agreed with the client and the coding standards</li>
                <li>Review code was according to standards</li>
