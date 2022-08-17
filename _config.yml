@@ -29,11 +29,10 @@ linkedin_username: tyron-esch
 # about_title: About Me
 about_profile_image: images/Nqq42LCQ.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I have over a decade in the IT industry specialising in the systems integration environment with the IBM toolset, with my primary focus on IBM Integration Bus (IIB) and now App Connect Enterprise (ACE) as well as vast knowledge of IBM MQ and experience on IBM DataPower XI52's. I have a great intrest in the Devops culture where I find the automation of deployments and montioring of the systems, infrastructure and services the most exciting.  
-  
-  I started my career at Standard Bank South Africa in 2008, where I began working on the IBM WebSphere Message Broker version 6 alongside SAP XI. The very first production implementation I was involved in was 4 months later where we had to upgrade the version to Message Broker 6.1. Ever since then I was a valued and respected member of the development team in which I was involved in many more implementations and leading many in the years to come. 
-  I was involved in the greater Core Banking project, which was the transformation of the bank from legacy CRM and Bank Accounts to SAP systems, that was divided into many sequential releases, in which I was involved in the architecture of the services on the Enterprise Service Bus right through testing and eventual go live and production support of the system and services of the core banking services and many other bespoke services for banking functionality. 
-  
+  I have over a decade in the IT industry specialising in the systems integration environment with the IBM toolset, with my primary focus on IBM Integration Bus (IIB) and now App Connect Enterprise (ACE) and a vast knowledge of IBM MQ and experience on IBM DataPower XI52’s. I have a great intrest in the Devops culture where I find the automation of deployments and montioring of the systems, infrastructure and services the most exciting.
+
+  I started my career at Standard Bank South Africa in 2008, where I began working on the IBM WebSphere Message Broker version 6 alongside SAP XI. The very first production implementation I was involved in was 4 months later where we had to upgrade the version to Message Broker 6.1. I was involved in many more implementations and leading many in the years to come. I was involved in the greater Core Banking project, which was the transformation of the bank from legacy CRM and Bank Accounts to SAP systems, that was divided into many sequential releases, in which I was involved in the architecture of the services on the Enterprise Service Bus right through testing and eventual go live and production support of the system and services of the core banking services and many other bespoke services for banking functionality.
+
   In 2016 I joined a new company, i1 Solutions, looking to broaden my technical and interpersonal skills. i1 Solutions is an IBM Platinum partner in South Africa that consults to many different industries with IBM Integration as their core focus. The idea of working on many different clients and learning of the different ways other systems are implemented and having the chance to be involved in designing and architecting many of them was also a massive attraction. During my tenure at i1 Solutions I gained knowledge of not only more technical skills and the way other implementations of and ESB but also with the soft skills of leasing with clients and their needs of their business and applications.
 
 content:
@@ -53,7 +52,7 @@ content:
       - layout: top-middle
         title: Implementation of Bamboo, Jenkins
         description: | # this will include new lines to allow paragraphs
-           I took the responsibility to implementing a continuous integration and deployment engine for one of my major clients to reduce the amount of time, errors and increase the repeatability of deployments therefore reducing risk. I first started doing this in my own time as I saw a great need for it and work projects were taking priority. My first choice was Atlassian Bamboo which worked well, and I had used it before and the interface layout was very intuitive. Except for the fact that in Q1 2021 no more releases would be available. So I decided to move the CI/CD of Jenkins to build IIB/ACE Applications where it soon grow to include MQ mqsc scripts, DB tables, and now other Java based application owners are using the same platform.
+           I took the responsibility to implementing a continuous integration and deployment engine for one of my major clients to reduce the amount of time, errors and increase the repeatability of deployments therefore reducing risk. I first started doing this in my own time as I saw a great need for it and work projects were taking priority. My first choice was Atlassian Bamboo which worked well, and I had used it before and the interface layout was very intuitive. Except for the fact that in Q1 2021 no more releases would be available. I then decided to move the CI/CD of Jenkins to build IIB/ACE Applications where it soon grow to include MQ mqsc scripts, DB tables, and now other Java based application owners are using the same platform.
           
 
       - layout: top-middle
@@ -62,38 +61,6 @@ content:
         description: | # this will include new lines to allow paragraphs
            By implementing flow and node stats, I was able trouble shoot problems of poor performance. I was able to not only identify a slowdown from one of our sites and quantify it, then narrow it down to a Data Base call on a compute node using node stats. I was able determine that is was a network slowdown from one site to another, and come up with multiple different solutions to help alleviate the problem. The difference between sites flow stats was 900 milliseconds compared to 80 milliseconds on the first site. This was more then 10x the time it should be taken.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: i1 Solutions
-        link: https://www.i1solutions.co.za/
-        link_text: i1 Solutions
-        sub_title: Senior Integration Developer
-        caption: April 2016 - July 2022
-        #quote: >
-        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-           At i1 my main client was Aspen Pharmaceuticals where I architected the integration and MQ systems as well as developed, supported, and monitored the IBM Integration Stack. This included IIB/ACE , MQ ,DB2 and the GSCP (a custom web portal for Supply Chain). I would meet with the client from their business and technical team were I designed and architected the services.
-           I have also implemented and maintained multiple Continuous Delivery implementations, namely Bamboo and Jenkins, where IIB/ACE bar files would be built and deployed using committed code and configs. I also implemented MQ and DB2 config tables as part of the Continuous Delivery implementation. 
-  
-           Other clients that were on my portfolio was Woolworths, were I was involved in upgrade projects and code rewrite and optimisation. I wrote the new standards document where naming standards were agreed with the client and the coding standards were enforced where a team would implement the new standards and I would review the juniors code was according to standards and optimal.
-           Telesure and Spar where I would support their production environments on a case by case basis, these support tasks included administrative tasks that were causing issues on the environment. For instance, tracking down why a Integration Server was crashing and updating JVM and implementing JKS keystores for IIB and MQ to secure communication channels as well as other support tasks.
-           Old Mutual where I assisted the client team when there were project deadlines that needed to be met, I would assist in creating new IIB Rest and Web Services that the project team would implement into production. 
-           Cash connect where I supported and implemented and their MQ environment that connected to their chosen Banking partner.
-
-
-      - layout: left
-        title: Standard Bank South Africa
-        link: https://www.standardbank.co.za/southafrica/personal/home
-        link_text: Standard Bank
-        sub_title: Senior Integration Specialist 
-        caption: February 2008 - May 2016
-        #quote: >
-        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-           I worked at Standard Bank for 8 years as a developer and worked my way up to Integration Specialist in the Personal and Business Banking (PBB) ESB Integration team.  I was involved in implementing many projects including 5 major Core Banking releases, where I was a technical lead for Message Broker and in the latter projects DataPower as well. I also assisted in the building of the Message Broker V7 on the Mainframe, which included code changes to deal with Mainframe code page differences. I also consulted in the Africa and CIB Integration Spaces in assisting in problem resolution and solution design of the decommissioning of the JCAPS and MAX systems and migrate the services to Message Broker and DataPower.
-           
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -114,6 +81,41 @@ content:
             <li>IBM Certified System Administrator - MQ V8.0</li>
             <li>IBM WebSphere Cast Iron Technical Sales Professional v1</li>
           </ul>
+
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: i1 Solutions
+        link: https://www.i1solutions.co.za/
+        link_text: i1 Solutions
+        sub_title: Senior Integration Developer
+        caption: April 2016 - July 2022
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+           At i1 my main client was Aspen Pharmaceuticals where I architected the integration and MQ systems as well as developed, supported, and monitored the IBM Integration Stack. This included IIB/ACE , MQ ,DB2 and the GSCP (a custom web portal for Supply Chain). I would meet with the client from their business and technical team were I designed and architected the services.
+           I have also implemented and maintained multiple Continuous Delivery implementations, namely Bamboo and Jenkins, where IIB/ACE bar files would be built and deployed using committed code and configurations. I also implemented MQ and DB2 configuration tables as part of the Continuous Delivery implementation. 
+           
+           #Other             
+#           Other clients that were on my portfolio was Woolworths, were I was involved in upgrade projects and code rewrite and optimisation. I wrote the new standards document where naming standards were agreed with the client and the coding standards were enforced where a team would implement the new standards and I would review the juniors code was according to standards and optimal.
+#           Telesure and Spar where I would support their production environments on a case by case basis, these support tasks included administrative tasks that were causing issues on the environment. For instance, tracking down why a Integration Server was crashing and updating JVM and implementing JKS keystores for IIB and MQ to secure communication channels as well as other support tasks.
+#           Old Mutual where I assisted the client team when there were project deadlines that needed to be met, I would assist in creating new IIB Rest and Web Services that the project team would implement into production. 
+#           Cash connect where I supported and implemented and their MQ environment that connected to their chosen Banking partner.
+
+
+      - layout: left
+        title: Standard Bank South Africa
+        link: https://www.standardbank.co.za/southafrica/personal/home
+        link_text: Standard Bank
+        sub_title: Senior Integration Specialist 
+        caption: February 2008 - May 2016
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+           I worked at Standard Bank for 8 years as a developer and worked my way up to Integration Specialist in the Personal and Business Banking (PBB) ESB Integration team.  I was involved in implementing many projects including 5 major Core Banking releases, where I was a technical lead for Message Broker and in the latter projects DataPower as well. I also assisted in the building of the Message Broker V7 on the Mainframe, which included code changes to deal with Mainframe code page differences. I also consulted in the Africa and CIB Integration Spaces in assisting in problem resolution and solution design of the decommissioning of the JCAPS and MAX systems and migrate the services to Message Broker and DataPower.
+           
 
 #
 #  - title: Education # Title for the section
