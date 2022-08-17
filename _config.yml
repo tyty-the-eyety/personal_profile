@@ -42,7 +42,7 @@ content:
       - layout: top-middle
         #title: Implementation of Bamboo, Jenkins
         description: | # this will include new lines to allow paragraphs
-           My Integration Skills are: <b>IBM IIB/ACE</b> , <b>IBM MQ</b> and <b> IBM WebSphere DataPower</b> <br> My Other Skills are: <b>Windows</b> , <b>Linux (Ubuntu, Red Hat)</b>, <b>Java</b>, <b>ESQL</b>, <b>Bash</b>, <b>SQL</b>, <b>Docker</b>, <b>Python</b> <br> My Protocals And Standards Skills are: <b>XML</b> , <b>WSDL/SOAP</b>, <b>XPath</b>, <b>JSon</b>, <b>REST</b>, <b>SWAGGER</b>, <b>TCP/IP/UDP</b>, <b>HTTPs/SSL/TLS</b> <br> Tools I have used: <b>Eclipse</b> , <b>Subversion/SVN</b>, <b>GIT</b>, <b>BitBucket</b>, <b>CVS</b>, <b>Jira(Atlassian  Suit)</b>, <b>Bamboo</b>, <b>Jenkins</b>, <b>Postman</b>, <b>SOAPUI</b>, <b>VS Code</b> <br>
+           Integration Skills are: <b>IBM IIB/ACE</b> , <b>IBM MQ</b> and <b> IBM WebSphere DataPower</b> <br> My Other Skills are: <b>Windows</b> , <b>Linux (Ubuntu, Red Hat)</b>, <b>Java</b>, <b>ESQL</b>, <b>Bash</b>, <b>SQL</b>, <b>Docker</b>, <b>Python</b> <br> Protocals And Standards Skills are: <b>XML</b> , <b>WSDL/SOAP</b>, <b>XPath</b>, <b>JSon</b>, <b>REST</b>, <b>SWAGGER</b>, <b>TCP/IP/UDP</b>, <b>HTTPs/SSL/TLS</b> <br> Tools: <b>Eclipse</b> , <b>Subversion/SVN</b>, <b>GIT</b>, <b>BitBucket</b>, <b>CVS</b>, <b>Jira(Atlassian  Suit)</b>, <b>Bamboo</b>, <b>Jenkins</b>, <b>Postman</b>, <b>SOAPUI</b>, <b>VS Code</b> <br>
 
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
@@ -97,7 +97,16 @@ content:
            At i1 my main client was Aspen Pharmaceuticals where I architected the integration and MQ systems as well as developed, supported, and monitored the IBM Integration Stack. This included IIB/ACE , MQ ,DB2 and the GSCP (a custom web portal for Supply Chain). I would meet with the client from their business and technical team were I designed and architected the services.
            I have also implemented and maintained multiple Continuous Delivery implementations, namely Bamboo and Jenkins, where IIB/ACE bar files would be built and deployed using committed code and configurations. I also implemented MQ and DB2 configuration tables as part of the Continuous Delivery implementation. 
            
-           #Other             
+           Other Clients Included:
+           <ul>
+             <li>Woolworths</li>
+               <ul>
+               <li>Involved in upgrade projects and code rewrite and optimisation</li>
+               <li>Wrote the new standards document where naming standards were agreed with the client and the coding standards</li>
+               <li>Review code was according to standards</li>
+             </ul>
+           </ul>
+           
 #           Other clients that were on my portfolio was Woolworths, were I was involved in upgrade projects and code rewrite and optimisation. I wrote the new standards document where naming standards were agreed with the client and the coding standards were enforced where a team would implement the new standards and I would review the juniors code was according to standards and optimal.
 #           Telesure and Spar where I would support their production environments on a case by case basis, these support tasks included administrative tasks that were causing issues on the environment. For instance, tracking down why a Integration Server was crashing and updating JVM and implementing JKS keystores for IIB and MQ to secure communication channels as well as other support tasks.
 #           Old Mutual where I assisted the client team when there were project deadlines that needed to be met, I would assist in creating new IIB Rest and Web Services that the project team would implement into production. 
@@ -113,7 +122,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-           I worked at Standard Bank for 8 years as a developer and worked my way up to Integration Specialist in the Personal and Business Banking (PBB) ESB Integration team.  I was involved in implementing many projects including 5 major Core Banking releases, where I was a technical lead for Message Broker and in the latter projects DataPower as well. I also assisted in the building of the Message Broker on the Mainframe, which included code changes to deal with Mainframe code page differences. I also consulted in the Africa and CIB Integration Spaces in assisting in problem resolution and solution design of the decommissioning of the JCAPS and MAX systems and migrate the services to Message Broker and DataPower.
+           I worked at Standard Bank for 8 years as a developer and worked my way up to Integration Specialist in the Personal and Business Banking (PBB) ESB Integration team.  I was involved in implementing many projects including 5 major Core Banking releases, where I was a technical lead for Message Broker and in the latter projects DataPower as well. I also assisted in the building of the Message Broker on the Mainframe, which included code changes to deal with Mainframe code page differences. I also consulted in the Africa and Corparate and Investment Integration Teams in assisting in problem resolution and solution design of the decommissioning of the legacy integration products and systems to IBM Message Broker and DataPower.
            
 
 #
