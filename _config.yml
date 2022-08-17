@@ -96,7 +96,6 @@ content:
         description: | # this will include new lines to allow paragraphs
            At i1 my main client was Aspen Pharmaceuticals where I architected the integration and MQ systems as well as developed, supported, and monitored the IBM Integration Stack. This included IIB/ACE , MQ ,DB2 and the GSCP (a custom web portal for Supply Chain). I would meet with the client from their business and technical team were I designed and architected the services.
            I have also implemented and maintained multiple Continuous Delivery implementations, namely Bamboo and Jenkins, where IIB/ACE bar files would be built and deployed using committed code and configurations. I also implemented MQ and DB2 configuration tables as part of the Continuous Delivery implementation. 
-           
            Other Clients Included:
            <ul>
              <li>Woolworths</li>
@@ -107,10 +106,6 @@ content:
              </ul>
            </ul>
            
-#           Other clients that were on my portfolio was Woolworths, were I was involved in upgrade projects and code rewrite and optimisation. I wrote the new standards document where naming standards were agreed with the client and the coding standards were enforced where a team would implement the new standards and I would review the juniors code was according to standards and optimal.
-#           Telesure and Spar where I would support their production environments on a case by case basis, these support tasks included administrative tasks that were causing issues on the environment. For instance, tracking down why a Integration Server was crashing and updating JVM and implementing JKS keystores for IIB and MQ to secure communication channels as well as other support tasks.
-#           Old Mutual where I assisted the client team when there were project deadlines that needed to be met, I would assist in creating new IIB Rest and Web Services that the project team would implement into production. 
-#           Cash connect where I supported and implemented and their MQ environment that connected to their chosen Banking partner.
 
 
       - layout: left
