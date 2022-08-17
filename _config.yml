@@ -96,15 +96,15 @@ content:
         description: | # this will include new lines to allow paragraphs
            At i1 my main client was Aspen Pharmaceuticals where I architected the integration and MQ systems as well as developed, supported, and monitored the IBM Integration Stack. This included IIB/ACE , MQ ,DB2 and the GSCP (a custom web portal for Supply Chain). I would meet with the client from their business and technical team were I designed and architected the services.
            I have also implemented and maintained multiple Continuous Delivery implementations, namely Bamboo and Jenkins, where IIB/ACE bar files would be built and deployed using committed code and configurations. I also implemented MQ and DB2 configuration tables as part of the Continuous Delivery implementation. 
-           Other Clients Included:
-           <ul>
-             <li>Woolworths</li>
-             <ul>
-               <li>Involved in upgrade projects and code rewrite and optimisation</li>
-               <li>Wrote the new standards document where naming standards were agreed with the client and the coding standards</li>
-               <li>Review code was according to standards</li>
-             </ul>
-           </ul>
+#           Other Clients Included:
+#           <ul>
+#             <li>Woolworths</li>
+#             <ul>
+#               <li>Involved in upgrade projects and code rewrite and optimisation</li>
+#               <li>Wrote the new standards document where naming standards were agreed with the client and the coding standards</li>
+#               <li>Review code was according to standards</li>
+#             </ul>
+#           </ul>
            
 
 
