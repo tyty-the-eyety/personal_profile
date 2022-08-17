@@ -44,23 +44,6 @@ content:
         description: | # this will include new lines to allow paragraphs
            My Integration Skills are: <b>IBM IIB/ACE</b> , <b>IBM MQ</b> and <b> IBM WebSphere DataPower</b> <br> My Other Skills are: <b>Windows</b> , <b>Linux (Ubuntu, Red Hat)</b>, <b>Java</b>, <b>ESQL</b>, <b>Bash</b>, <b>SQL</b>, <b>Docker</b>, <b>Python</b> <br> My Protocals And Standards Skills are: <b>XML</b> , <b>WSDL/SOAP</b>, <b>XPath</b>, <b>JSon</b>, <b>REST</b>, <b>SWAGGER</b>, <b>TCP/IP/UDP</b>, <b>HTTPs/SSL/TLS</b> <br> Tools I have used: <b>Eclipse</b> , <b>Subversion/SVN</b>, <b>GIT</b>, <b>BitBucket</b>, <b>CVS</b>, <b>Jira(Atlassian  Suit)</b>, <b>Bamboo</b>, <b>Jenkins</b>, <b>Postman</b>, <b>SOAPUI</b>, <b>VS Code</b> <br>
 
-
-
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Implementation of Bamboo, Jenkins
-        description: | # this will include new lines to allow paragraphs
-           I took the responsibility to implementing a continuous integration and deployment engine for one of my major clients to reduce the amount of time, errors and increase the repeatability of deployments therefore reducing risk. I first started doing this in my own time as I saw a great need for it and work projects were taking priority. My first choice was Atlassian Bamboo which worked well, and I had used it before and the interface layout was very intuitive. Except for the fact that in Q1 2021 no more releases would be available. I then decided to move the CI/CD of Jenkins to build IIB/ACE Applications where it soon grow to include MQ mqsc scripts, DB tables, and now other Java based application owners are using the same platform.
-          
-
-      - layout: top-middle
-        title: Implementation of Node and Flow Statistics on IIB for problem resolution 
-      
-        description: | # this will include new lines to allow paragraphs
-           By implementing flow and node stats, I was able trouble shoot problems of poor performance. I was able to not only identify a slowdown from one of our sites and quantify it, then narrow it down to a Data Base call on a compute node using node stats. I was able determine that is was a network slowdown from one site to another, and come up with multiple different solutions to help alleviate the problem. The difference between sites flow stats was 900 milliseconds compared to 80 milliseconds on the first site. This was more then 10x the time it should be taken.
-
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -81,6 +64,23 @@ content:
             <li>IBM Certified System Administrator - MQ V8.0</li>
             <li>IBM WebSphere Cast Iron Technical Sales Professional v1</li>
           </ul>
+
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Implementation of Bamboo, Jenkins
+        description: | # this will include new lines to allow paragraphs
+           I took the responsibility to implementing a continuous integration and deployment engine for one of my major clients to reduce the amount of time, errors and increase the repeatability of deployments therefore reducing risk. I first started doing this in my own time as I saw a great need for it and work projects were taking priority. My first choice was Atlassian Bamboo which worked well, and I had used it before and the interface layout was very intuitive. Except for the fact that in Q1 2021 no more releases would be available. I then decided to move the CI/CD of Jenkins to build IIB/ACE Applications where it soon grow to include MQ mqsc scripts, DB tables, and now other Java based application owners are using the same platform.
+          
+
+      - layout: top-middle
+        title: Implementation of Node and Flow Statistics on IIB for problem resolution 
+      
+        description: | # this will include new lines to allow paragraphs
+           By implementing flow and node stats, I was able trouble shoot problems of poor performance. I was able to not only identify a slowdown from one of our sites and quantify it, then narrow it down to a Data Base call on a compute node using node stats. I was able determine that is was a network slowdown from one site to another, and come up with multiple different solutions to help alleviate the problem. The difference between sites flow stats was 900 milliseconds compared to 80 milliseconds on the first site. This was more then 10x the time it should be taken.
+
 
 
   - title: Experience # Title for the section
