@@ -15,9 +15,28 @@ email: tyronesch@gmail.com
 darkmode: false
 
 # Social links
-
+#twitter_username: facespics
 github_username:  tyty-the-eyety
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: jameswgrant
 linkedin_username: tyron-esch
+# xing_username: jekyll
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -35,6 +54,15 @@ about_content: | # this will include new lines to allow paragraphs
   I was involved in the greater Core Banking project, which was the transformation of the bank from legacy CRM and Bank Accounts to SAP systems, that was divided into many sequential releases, in which I was involved in the architecture of the services on the Enterprise Service Bus right through testing and eventual go live and production support of the system and services of the core banking services and many other bespoke services for banking functionality. 
   
   In 2016 I joined a new company, i1 Solutions, looking to broaden my technical and interpersonal skills. i1 Solutions is an IBM Platinum partner in South Africa that consults to many different industries with IBM Integration as their core focus. The idea of working on many different clients and learning of the different ways other systems are implemented and having the chance to be involved in designing and architecting many of them was also a massive attraction. During my tenure at i1 Solutions I gained knowledge of not only more technical skills and the way other implementations of and ESB but also with the soft skills of leasing with clients and their needs of their business and applications.
+
+  
+#  My Integration Skills are: <b>IBM IIB/ACE</b> , <b>IBM MQ</b> and <b> IBM WebSphere DataPower</b>
+#  
+#  My Other Skills are: <b>Windows</b> , <b>Linux (Ubuntu, Red Hat)</b>, <b>Java</b>, <b>ESQL</b>, <b>Bash</b>, <b>SQL</b>, <b>Docker</b>, <b>Python</b> 
+#  
+#  My Protocals And Standards Skills are: <b>XML</b> , <b>WSDL/SOAP</b>, <b>XPath</b>, <b>JSon</b>, <b>REST</b>, <b>SWAGGER</b>, <b>TCP/IP/UDP</b>, <b>HTTPs/SSL/TLS</b> 
+#  
+#  Tools I have used: <b>Eclipse</b> , <b>Subversion/SVN</b>, <b>GIT</b>, <b>BitBucket</b>, <b>CVS</b>, <b>Jira(Atlasian Suit)</b>, <b>Bamboo</b>, <b>Jenkins</b>, <b>Postman</b>, <b>SOAPUI</b>, <b>VS Code</b>
 
 content:
   - title: Skills # Title for the section
@@ -98,7 +126,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-
+        #title: Certifications
+        #caption: 2010 - 2013
+        #sub_title: BSc Computer Science
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           <ul>
             <li>DevOps on AWS</li>
@@ -120,23 +152,27 @@ content:
 #    layout: list # Type of content section (list/text)
 #    content:
 #      - layout: left
-#        title: 
-#        caption: 2008 - 2016
+#        title: Harvard University
+#        caption: 2010 - 2013
 #        sub_title: BSc Computer Science
-
+#        quote: >
+#          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
 #        description: | # this will include new lines to allow paragraphs
-#          
+#          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+#
+#          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+#
 #  - title: A Little More About Me
 #    layout: text
 #    content: | # this will include new lines to allow paragraphs
 #      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-#      - 3D Printing
+#      - Rock climbing
 #      - Gaming
-#      
-#
+#      - Knitting
+#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 #
 #      Look at this cool image  
-#      ![Trees](landscape-trees.jpg "Trees")
+#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
