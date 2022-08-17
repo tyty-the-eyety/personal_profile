@@ -95,7 +95,8 @@ content:
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
            At i1 my main client was Aspen Pharmaceuticals where I architected the integration and MQ systems as well as developed, supported, and monitored the IBM Integration Stack. This included IIB/ACE , MQ ,DB2 and the GSCP (a custom web portal for Supply Chain). I would meet with the client from their business and technical team were I designed and architected the integration scenarios and API's.
-           I have also implemented and maintained multiple Continuous Delivery implementations, namely Bamboo and Jenkins, where IIB/ACE bar files would be built and deployed using committed code and configurations. I also implemented MQ and DB2 configuration tables as part of the Continuous Delivery implementation. 
+           I have also implemented and maintained multiple Continuous Delivery implementations, namely Bamboo and Jenkins, where IIB/ACE bar files would be built and deployed using committed code and configurations. I also implemented MQ and DB2 configuration tables as part of the Continuous Delivery implementation. This made it possible to implement and supported business critical systems and processes quickly and efficiently on the BaaN so SAP migration projects of the multiple ERP systems in the Aspen environment. 
+           
            Other Clients Included:
            <ul>
              <li>Woolworths</li>
