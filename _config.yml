@@ -42,13 +42,13 @@ content:
       - layout: top-middle
         #title: Implementation of Bamboo, Jenkins
         description: | # this will include new lines to allow paragraphs
-           Integration Skills are: <b>IBM IIB/ACE</b> , <b>IBM MQ</b> and <b> IBM WebSphere DataPower</b> <br> My Other Skills are: <b>Windows</b> , <b>Linux (Ubuntu, Red Hat)</b>, <b>Java</b>, <b>ESQL</b>, <b>Bash</b>, <b>SQL</b>, <b>Docker</b>, <b>Python</b> <br> Protocals And Standards Skills are: <b>XML</b> , <b>WSDL/SOAP</b>, <b>XPath</b>, <b>JSon</b>, <b>REST</b>, <b>SWAGGER</b>, <b>TCP/IP/UDP</b>, <b>HTTPs/SSL/TLS</b> <br> Tools: <b>Eclipse</b> , <b>Subversion/SVN</b>, <b>GIT</b>, <b>BitBucket</b>, <b>CVS</b>, <b>Jira(Atlassian  Suit)</b>, <b>Bamboo</b>, <b>Jenkins</b>, <b>Postman</b>, <b>SOAPUI</b>, <b>VS Code</b> <br>
+           Integration Skills: <b>IBM IIB/ACE</b> , <b>IBM MQ</b> and <b> IBM WebSphere DataPower</b> <br> My Other Skills: <b>Windows</b> , <b>Linux (Ubuntu, Red Hat)</b>, <b>Java</b>, <b>ESQL</b>, <b>Bash</b>, <b>SQL</b>, <b>Docker</b>, <b>Python</b> <br> Protocals And Standards Skills: <b>XML</b> , <b>WSDL/SOAP</b>, <b>XPath</b>, <b>JSon</b>, <b>REST</b>, <b>SWAGGER</b>, <b>TCP/IP/UDP</b>, <b>HTTPs/SSL/TLS</b> <br> Tools: <b>Eclipse</b> , <b>Subversion/SVN</b>, <b>GIT</b>, <b>BitBucket</b>, <b>CVS</b>, <b>Jira(Atlassian  Suit)</b>, <b>Bamboo</b>, <b>Jenkins</b>, <b>Postman</b>, <b>SOAPUI</b>, <b>VS Code</b> <br>
 
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-
+      - layout: top-middle
+        
         description: | # this will include new lines to allow paragraphs
           <ul>
             <li>DevOps on AWS</li>
@@ -103,6 +103,28 @@ content:
                <li>Involved in upgrade projects and code rewrite and optimisation</li>
                <li>Wrote the new standards document where naming standards were agreed with the client and the coding standards</li>
                <li>Review code was according to standards</li>
+             </ul>
+             <li>Telesure</li>
+             <ul>
+               <li>Support of Production Environments</li>
+               <li>IIB and MQ Administrative Tasks</li>
+               <li>IIB Environmental Support</li>
+             </ul>
+             <li>Spar</li>
+             <ul>
+               <li>Support of Production Environments</li>
+               <li>IIB and MQ Administrative Tasks</li>
+               <li>Implement keystores for IIB and MQ to ensure Secure Communication to 3rd Parties</li>
+             </ul>
+             <li>Old Mutual</li>
+             <ul>
+               <li>Assisted the client team  when there were project deadlines that needed to be met</li>
+               <li>Creating new IIB Rest and Web Services</li>
+             </ul>
+             <li>Cash Connect</li>
+             <ul>
+               <li>Implemented IBM MQ</li>
+               <li>Supported the MQ environment that connected to their chosen Banking partner</li>
              </ul>
            </ul>
            
