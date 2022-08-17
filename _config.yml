@@ -187,3 +187,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+theme: jekyll-theme-cayman
