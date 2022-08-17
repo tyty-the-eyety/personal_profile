@@ -50,20 +50,20 @@ content:
       - layout: left
 
         description: | # this will include new lines to allow paragraphs
-          <ul>
-            <li>DevOps on AWS</li>
-            <ul>
-              <li>AWS Cloud Technical Essentials</li>
-              <li>DevOps on AWS: Code, Build, and Test</li>
-              <li>DevOps on AWS: Release and Deploy</li>
-              <li>DevOps on AWS: Operate and Monitor</li>
-            </ul>
-            <li>IBM Certified Solution Developer - APP Connect Enterprise V11</li>
-            <li>IBM Certified System Administrator - MQ V9.0</li>
-            <li>IBM Certified Solution Developer - Integration Bus V9.0 </li>
-            <li>IBM Certified System Administrator - MQ V8.0</li>
-            <li>IBM WebSphere Cast Iron Technical Sales Professional v1</li>
-          </ul>
+<ul>
+  <li>DevOps on AWS</li>
+  <ul>
+    <li>AWS Cloud Technical Essentials</li>
+    <li>DevOps on AWS: Code, Build, and Test</li>
+    <li>DevOps on AWS: Release and Deploy</li>
+    <li>DevOps on AWS: Operate and Monitor</li>
+  </ul>
+  <li>IBM Certified Solution Developer - APP Connect Enterprise V11</li>
+  <li>IBM Certified System Administrator - MQ V9.0</li>
+  <li>IBM Certified Solution Developer - Integration Bus V9.0 </li>
+  <li>IBM Certified System Administrator - MQ V8.0</li>
+  <li>IBM WebSphere Cast Iron Technical Sales Professional v1</li>
+</ul>
 
 
   - title: Projects # Title for the section
@@ -79,8 +79,7 @@ content:
         title: Implementation of Node and Flow Statistics on IIB for problem resolution 
       
         description: | # this will include new lines to allow paragraphs
-           By implementing flow and node stats, I was able trouble shoot problems of poor performance. I was able to not only identify a slowdown from one of our sites and quantify it, then narrow it down to a Data Base call on a compute node using node stats. I was able determine that is was a network slowdown from one site to another, and come up with multiple different solutions to help alleviate the problem. The difference between sites flow stats was 900 milliseconds compared to 80 milliseconds on the first site. This was more then 10x the time it should be taken.
-
+           By implementing flow and node stats, I was able trouble shoot problems of poor performance. I was able to not only identify a slowdown from one of our sites and quantify it, then narrow it down to a Data Base call on a compute node using node stats. I was able determine that it was a network slowdown from one site to another and come up with multiple different solutions to help alleviate the problem. The difference between sites flow stats was 900 milliseconds compared to 80 milliseconds on the first site. This was more then 10x the time it should be taken.
 
 
   - title: Experience # Title for the section
@@ -114,7 +113,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-           I worked at Standard Bank for 8 years as a developer and worked my way up to Integration Specialist in the Personal and Business Banking (PBB) ESB Integration team.  I was involved in implementing many projects including 5 major Core Banking releases, where I was a technical lead for Message Broker and in the latter projects DataPower as well. I also assisted in the building of the Message Broker V7 on the Mainframe, which included code changes to deal with Mainframe code page differences. I also consulted in the Africa and CIB Integration Spaces in assisting in problem resolution and solution design of the decommissioning of the JCAPS and MAX systems and migrate the services to Message Broker and DataPower.
+           I worked at Standard Bank for 8 years as a developer and worked my way up to Integration Specialist in the Personal and Business Banking (PBB) ESB Integration team.  I was involved in implementing many projects including 5 major Core Banking releases, where I was a technical lead for Message Broker and in the latter projects DataPower as well. I also assisted in the building of the Message Broker on the Mainframe, which included code changes to deal with Mainframe code page differences. I also consulted in the Africa and CIB Integration Spaces in assisting in problem resolution and solution design of the decommissioning of the JCAPS and MAX systems and migrate the services to Message Broker and DataPower.
            
 
 #
