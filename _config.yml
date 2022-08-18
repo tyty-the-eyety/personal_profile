@@ -158,10 +158,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in IT some of my other interests and hobbies are:
-      - 3D Printing
+      - 3D Printing <br>
         I bought myself a 3D Printer as a present to myself and have dived deep into the printing world. 3D printing shows one how to be a logical thinker and problem-solving skills, there is so much to learn not just in the setting up and maintaince of the printer but in teaching yourself new skills like CAD software.
-      - DIY
-      - Gaming 
+      - DIY <br>
+        Owning a house ensures one should have some sort of do it yourself skills, and the sense of ownership and accomplishment that someone gets by building their own furniture or fixing something that is broken is a reward on itself. 
+      - Gaming <br>
       
 
 
