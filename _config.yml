@@ -29,7 +29,7 @@ linkedin_username: tyron-esch
 # about_title: About Me
 about_profile_image: images/Nqq42LCQ.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I have over a decade in the IT industry specialising in the systems integration environment with the IBM toolset, with my primary focus on IBM Integration Bus (IIB) and now App Connect Enterprise (ACE) and a vast knowledge of IBM MQ and experience on IBM DataPower XI52’s. I have a great intrest in the modernising systems using Devops principles where I find the automation of deployments and montioring of the systems, infrastructure and integration scenarios the most intrest.
+  I have over a decade in the IT industry specialising in the systems integration environment with the IBM toolset, with my primary focus on IBM Integration Bus (IIB) and now App Connect Enterprise (ACE) and a vast knowledge of IBM MQ and experience on IBM DataPower XI52’s. I have a great intrest in the modernising of systems using Devops principles where I find the automation of deployments and montioring of the systems, infrastructure and integration scenarios of most intrest.
 
   I started my career at Standard Bank South Africa in 2008, where I began working on the IBM WebSphere Message Broker version 6 alongside SAP XI. The very first production implementation I was involved in was a few months later where we had to upgrade the version to Message Broker 6.1. I was involved in many more implementations and leading many in the years to come. I was involved in the greater Core Banking project, which was the transformation of the bank from legacy CRM and Bank Accounts to SAP systems, that was divided into many sequential releases, in which I was involved in the architecture, design and implementation of solutions on the Enterprise Service Bus using SOA and API integration patterns and principles of the core banking system and many other bespoke integration scenarios for banking functionality. 
 
@@ -154,15 +154,17 @@ content:
 
 #        description: | # this will include new lines to allow paragraphs
 #          
-#  - title: A Little More About Me
-#    layout: text
-#    content: | # this will include new lines to allow paragraphs
-#      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-#      - 3D Printing
-#      - Gaming
-#      
-#
-#
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in IT some of my other interests and hobbies are:
+      - 3D Printing
+        I bought myself a 3D Printer as a present to myself and have dived deep into the printing world. 3D printing shows one how to be a logical thinker and problem-solving skills, there is so much to learn not just in the setting up and maintaince of the printer but in teaching yourself new skills like CAD software.
+      - DIY
+      - Gaming 
+      
+
+
 #      Look at this cool image  
 #      ![Trees](landscape-trees.jpg "Trees")
 
