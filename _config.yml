@@ -22,8 +22,8 @@ linkedin_username: tyron-esch
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+gtag: "UA-00000000-0"
+google_analytics: "G-ZRSPGH85CH"
 
 # About Section
 # about_title: About Me
